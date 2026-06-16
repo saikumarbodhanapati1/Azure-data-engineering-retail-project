@@ -1,0 +1,67 @@
+[
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Product_Categories.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "category",
+		"p_file_name": "category.parquet"
+	},
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Product_Subcategories.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "subcategory",
+		"p_file_name": "subcategory.parquet"
+	},
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Products.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "product",
+		"p_file_name": "product.parquet"
+	},
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Calendar.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "calendar",
+		"p_file_name": "calendar.parquet"
+	},
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Returns.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "returns",
+		"p_file_name": "returns.parquet"
+	},
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Territories.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "territory",
+		"p_file_name": "territory.parquet"
+	},
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Sales_2015.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "sales",
+		"p_file_name": "sales_2015.parquet"
+	},
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Sales_2016.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "sales",
+		"p_file_name": "sales_2016.parquet"
+	},
+	{
+		"p_rel_url": "bhaskarazgit/data/refs/heads/main/adventure_works/AdventureWorks_Sales_2017.csv",
+		"p_container_name": "landing",
+		"p_folder_name": "sales",
+		"p_file_name": "sales_2017.parquet"
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
